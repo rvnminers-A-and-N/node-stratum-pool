@@ -1,4 +1,4 @@
-High performance Stratum poolserver in Node.js for [NOMP (Node Open Mining Portal)](https://github.com/1301313Y/node-open-mining-portal)
+High performance Stratum poolserver in Node.js for [NiceNOMP](https://github.com/cryptosharks131/NiceNOMP)
 
 Current version: v1.0.7
 
